@@ -1,4 +1,4 @@
-### Hello everybody I'm Rafael  :sunglasses:
+# Hello everybody I'm Rafael  :sunglasses:
 
 - 🔭 I’m currently working on a Software Architecture Team at Trizy
 - 🌱 I’m currently learning Mobile App Architecture
