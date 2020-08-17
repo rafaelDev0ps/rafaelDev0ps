@@ -15,7 +15,7 @@
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/rafamttz/)](https://github.com/rafamttz/)
 [![Python](https://img.shields.io/badge/-Python-afd0ea?style=flat-square&logo=Python&link=https://github.com/rafamttz/)](https://github.com/rafamttz/)
 [![Go](https://img.shields.io/badge/-Go-add8e6?style=flat-square&logo=Go&link=https://github.com/rafamttz/)](https://github.com/rafamttz/)
-[![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=Kotlin&link=https://github.com/rafamttz/)](https://github.com/rafamttz/)
+[![Kotlin](https://img.shields.io/badge/-Kotlin-FCA121?style=flat-square&logo=Kotlin&link=https://github.com/rafamttz/)](https://github.com/rafamttz/)
 [![Dart](https://img.shields.io/badge/-Dart-007ACC?style=flat-square&logo=Dart&link=https://github.com/rafamttz/)](https://github.com/rafamttz/)
 
 
@@ -24,7 +24,7 @@
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/rafamttz/)](https://github.com/rafamttz/)
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&link=https://github.com/rafamttz/)](https://github.com/rafamttz/)
 [![Kubernetes](https://img.shields.io/badge/-Kubernetes-add8e6?style=flat-square&logo=Kubernetes&link=https://github.com/rafamttz/)](https://github.com/rafamttz/)
-[![Jenkins](https://img.shields.io/badge/-Jenkins-696969?style=flat-square&logo=Jenkins&link=https://github.com/rafamttz/)](https://github.com/rafamttz/)
+[![Jenkins](https://img.shields.io/badge/-Jenkins-ededed?style=flat-square&logo=Jenkins&link=https://github.com/rafamttz/)](https://github.com/rafamttz/)
 [![Helm](https://img.shields.io/badge/-Helm-277A9F?style=flat-square&logo=Helm&link=https://github.com/rafamttz/)](https://github.com/rafamttz/)
 
 
