@@ -14,8 +14,8 @@
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/rafamttz/)](https://github.com/rafamttz/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/rafamttz/)](https://github.com/rafamttz/)
 [![Python](https://img.shields.io/badge/-Python-afd0ea?style=flat-square&logo=Python&link=https://github.com/rafamttz/)](https://github.com/rafamttz/)
-[![Go](https://img.shields.io/badge/-Go-a9a9a9?style=flat-square&logo=Go&link=https://github.com/rafamttz/)](https://github.com/rafamttz/)
-[![Kotlin](https://img.shields.io/badge/-Kotlin-ffa500?style=flat-square&logo=Kotlin&link=https://github.com/rafamttz/)](https://github.com/rafamttz/)
+[![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&link=https://github.com/rafamttz/)](https://github.com/rafamttz/)
+[![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=Kotlin&link=https://github.com/rafamttz/)](https://github.com/rafamttz/)
 [![Dart](https://img.shields.io/badge/-Dart-007ACC?style=flat-square&logo=Dart&link=https://github.com/rafamttz/)](https://github.com/rafamttz/)
 
 
@@ -53,5 +53,5 @@
 [![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=flat-square&logo=bitbucket&link=https://github.com/rafamttz/)](https://github.com/rafamttz/)
 [![Discord](https://img.shields.io/badge/-Discord-000000?style=flat-square&logo=Discord&link=https://github.com/rafamttz/)](https://github.com/rafamttz/)
 [![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=Jira&link=https://github.com/rafamttz/)](https://github.com/rafamttz/)
-[![Microsoft Teams](https://img.shields.io/badge/-microsoftteams-6264A7?style=flat-square&logo=microsoftteams&link=https://github.com/rafamttz/)](https://github.com/rafamttz/)
+[![Microsoft Teams](https://img.shields.io/badge/-MicrosoftTeams-6264A7?style=flat-square&logo=MicrosoftTeams&link=https://github.com/rafamttz/)](https://github.com/rafamttz/)
 
