@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on a Software Architecture Team at Trizy
 - 🌱 I’m currently learning SRE tools
 - 👯 I’m looking to collaborate on any project that involve my abilities
-- 💬 Ask me about Software Architecture, Microservices, Kubernetes, Docker, Golang, Kotlin, JavaScript, Cloud, CI/CD 
+- 💬 Ask me about Software Architecture, Microservices, Kubernetes, Docker, Golang, Cloud, CI/CD and JavaScript 
 
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=rafamttz&show_icons=true">
 
@@ -27,7 +27,11 @@
 [![Kubernetes](https://img.shields.io/badge/-Kubernetes-add8e6?style=flat-square&logo=Kubernetes&link=https://github.com/rafamttz/)](https://github.com/rafamttz/)
 [![Jenkins](https://img.shields.io/badge/-Jenkins-ededed?style=flat-square&logo=Jenkins&link=https://github.com/rafamttz/)](https://github.com/rafamttz/)
 [![Helm](https://img.shields.io/badge/-Helm-277A9F?style=flat-square&logo=Helm&link=https://github.com/rafamttz/)](https://github.com/rafamttz/)
+[![Istio](https://img.shields.io/badge/-Istio-277A9F?style=flat-square&logo=Istio&link=https://github.com/rafamttz/)](https://github.com/rafamttz/)
 
+**Monitoring**
+[![ELK](https://img.shields.io/badge/-ELK-ff69b4?style=flat-square&logo=ELK&link=https://github.com/rafamttz/)](https://github.com/rafamttz/)
+[![Prometheus](https://img.shields.io/badge/-Prometheus-808080?style=flat-square&logo=Prometheus&link=https://github.com/rafamttz/)](https://github.com/rafamttz/)
 
 **Front-end / Mobile**
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/rafamttz/)](https://github.com/rafamttz/)
