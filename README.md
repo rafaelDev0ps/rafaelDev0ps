@@ -49,5 +49,4 @@
 [![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=flat-square&logo=bitbucket&link=https://github.com/rafamttz/)](https://github.com/rafamttz/)
 [![Discord](https://img.shields.io/badge/-Discord-000000?style=flat-square&logo=Discord&link=https://github.com/rafamttz/)](https://github.com/rafamttz/)
 [![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=Jira&link=https://github.com/rafamttz/)](https://github.com/rafamttz/)
-[![Microsoft Teams](https://img.shields.io/badge/-MicrosoftTeams-6264A7?style=flat-square&logo=MicrosoftTeams&link=https://github.com/rafamttz/)](https://github.com/rafamttz/)
 
