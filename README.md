@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on a SRE/DevOps Team at OpenCo
 - 🌱 I’m currently learning SRE tools
 - 👯 I’m looking to collaborate on any project that involve my abilities
-- 💬 Ask me about Software Architecture, Microservices, Kubernetes, Docker, Golang, Cloud, CI/CD
+- 💬 Ask me about Software Architecture, Microservices, Kubernetes, Docker, Golang, Cloud, CI/CD and Observability.
 
 ## Knowledge
 
@@ -25,12 +25,6 @@
 **Monitoring**
 [![ELK](https://img.shields.io/badge/-ELK-ff69b4?style=flat-square&logo=ELK&link=https://github.com/rafamttz/)](https://github.com/rafamttz/)
 [![Prometheus](https://img.shields.io/badge/-Prometheus-808080?style=flat-square&logo=Prometheus&link=https://github.com/rafamttz/)](https://github.com/rafamttz/)
-
-**Front-end**
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/rafamttz/)](https://github.com/rafamttz/)
-[![SASS](https://img.shields.io/badge/-SASS-ed9ac2?style=flat-square&logo=sass)](https://github.com/rafamttz/)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/rafamttz/)](https://github.com/rafamttz/)
-[![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=Angular&link=https://github.com/rafamttz/)](https://github.com/rafamttz/)
 
 **Database**
 [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/rafamttz/)](https://github.com/rafamttz/)
