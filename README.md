@@ -1,44 +1,53 @@
 # Hello everybody I'm Rafael  :sunglasses:
 
 ## About me
-- 🔭 I’m currently working on a SRE/DevOps Team at OpenCo
-- 🌱 I’m currently learning SRE tools
+- 🔭 I’m currently working as a SRE/DevOps Engineer
+- 🌱 I’m currently learning SRE tools and DevOps culture
 - 👯 I’m looking to collaborate on any project that involve my abilities
 - 💬 Ask me about Software Architecture, Microservices, Kubernetes, Docker, Golang, Cloud, CI/CD and Observability.
 
 ## Knowledge
 
 **Languages**
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/rafamttz/)](https://github.com/rafamttz/)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/rafamttz/)](https://github.com/rafamttz/)
 [![Python](https://img.shields.io/badge/-Python-afd0ea?style=flat-square&logo=Python&link=https://github.com/rafamttz/)](https://github.com/rafamttz/)
 [![Go](https://img.shields.io/badge/-Go-add8e6?style=flat-square&logo=Go&link=https://github.com/rafamttz/)](https://github.com/rafamttz/)
-
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/rafamttz/)](https://github.com/rafamttz/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-f2f2f2?style=flat-square&logo=typescript&link=https://github.com/rafamttz/)](https://github.com/rafamttz/)
+  
 **Others Technologies**
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&link=https://github.com/rafamttz/)](https://github.com/rafamttz/)
 [![Kubernetes](https://img.shields.io/badge/-Kubernetes-add8e6?style=flat-square&logo=Kubernetes&link=https://github.com/rafamttz/)](https://github.com/rafamttz/)
-[![Jenkins](https://img.shields.io/badge/-Jenkins-ededed?style=flat-square&logo=Jenkins&link=https://github.com/rafamttz/)](https://github.com/rafamttz/)
 [![Helm](https://img.shields.io/badge/-Helm-277A9F?style=flat-square&logo=Helm&link=https://github.com/rafamttz/)](https://github.com/rafamttz/)
-[![Istio](https://img.shields.io/badge/-Istio-277A9F?style=flat-square&logo=Istio&link=https://github.com/rafamttz/)](https://github.com/rafamttz/)
+[![Istio](https://img.shields.io/badge/-Istio-f2f2f2?style=flat-square&logo=Istio&link=https://github.com/rafamttz/)](https://github.com/rafamttz/)
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/rafamttz/)](https://github.com/rafamttz/)
 
+**Cloud Providers**
+[![AWS](https://img.shields.io/badge/-AWS-f2f2f2?style=flat-square&logo=amazon&link=https://github.com/rafamttz/)](https://github.com/rafamttz/)
+[![GCP](https://img.shields.io/badge/-GCP-a6a6a6?style=flat-square&logo=googlecloud&link=https://github.com/rafamttz/)](https://github.com/rafamttz/)
+
 **Monitoring**
-[![ELK](https://img.shields.io/badge/-ELK-ff69b4?style=flat-square&logo=ELK&link=https://github.com/rafamttz/)](https://github.com/rafamttz/)
 [![Prometheus](https://img.shields.io/badge/-Prometheus-808080?style=flat-square&logo=Prometheus&link=https://github.com/rafamttz/)](https://github.com/rafamttz/)
-
+[![Grafana](https://img.shields.io/badge/-Grafana-808080?style=flat-square&logo=Grafana&link=https://github.com/rafamttz/)](https://github.com/rafamttz/)
+[![New Relic](https://img.shields.io/badge/-New%20Relic-00b35a?style=flat-square&logo=New%20Relic&link=https://github.com/rafamttz/)](https://github.com/rafamttz/)
+[![ELK](https://img.shields.io/badge/-ELK-ff69b4?style=flat-square&logo=elastic&link=https://github.com/rafamttz/)](https://github.com/rafamttz/)
+  
+**CI/CD**
+[![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&link=https://github.com/rafamttz/)](https://github.com/rafamttz/)
+[![Jenkins](https://img.shields.io/badge/-Jenkins-ededed?style=flat-square&logo=Jenkins&link=https://github.com/rafamttz/)](https://github.com/rafamttz/)
+[![CircleCI](https://img.shields.io/badge/-CicleCI-009a00?style=flat-square&logo=CircleCI&link=https://github.com/rafamttz/)](https://github.com/rafamttz/)
+[![ArgoCD](https://img.shields.io/badge/-ArgoCD-f2f2f2?style=flat-square&logo=argo&link=https://github.com/rafamttz/)](https://github.com/rafamttz/)
+  
 **Database**
-[![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/rafamttz/)](https://github.com/rafamttz/)
+[![Postgres](https://img.shields.io/badge/-Postgres-f2f2f2?style=flat-square&logo=postgresql&link=https://github.com/rafamttz/)](https://github.com/rafamttz/)
 [![MySQL](https://img.shields.io/badge/-MySQL-a0c4db?style=flat-square&logo=mysql&link=https://github.com/rafamttz/)](https://github.com/rafamttz/)
-
+[![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/rafamttz/)](https://github.com/rafamttz/)
 
 **Operational System**
 [![Linux](https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=Linux&link=https://github.com/rafamttz/)](https://github.com/rafamttz/)
 [![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&link=https://github.com/rafamttz/)](https://github.com/rafamttz/)
-
-
+  
 **Versioning and Communication**
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/rafamttz/)](https://github.com/rafamttz/)
-[![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&link=https://github.com/rafamttz/)](https://github.com/rafamttz/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/rafamttz/)](https://github.com/rafamttz/)
 [![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=flat-square&logo=bitbucket&link=https://github.com/rafamttz/)](https://github.com/rafamttz/)
 [![Discord](https://img.shields.io/badge/-Discord-000000?style=flat-square&logo=Discord&link=https://github.com/rafamttz/)](https://github.com/rafamttz/)
