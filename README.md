@@ -53,3 +53,6 @@
 [![Discord](https://img.shields.io/badge/-Discord-000000?style=flat-square&logo=Discord&link=https://github.com/rafamttz/)](https://github.com/rafamttz/)
 [![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=Jira&link=https://github.com/rafamttz/)](https://github.com/rafamttz/)
 
+## Open Source projects
+[htmgo](https://github.com/maddalax/htmgo) - build simple and scalable systems with go + htmx
+
