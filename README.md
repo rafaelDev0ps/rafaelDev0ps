@@ -1,7 +1,7 @@
 # Hello everybody I'm Rafael  :sunglasses:
 
 ## About me
-- 🔭 I’m currently working as a DevOps Engineer @ [WEX](https://www.wexinc.com/)
+- 🔭 I’m currently working as a Infrastructure Engineer @ [Articul8](https://www.articul8.ai/)
 - 🌱 I’m always learning things about DevOps, Cloud Infrastructure, Cloud Architectures and Go
 - 👯 I’m looking to create and collaborate on any project that involve my abilities
 - 💬 Ask me about Software/Cloud Architecture, Cloud Infrastructure, Golang, DevOps and Observability.
